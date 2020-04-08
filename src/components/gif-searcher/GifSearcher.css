@@ -1,0 +1,47 @@
+.gif-searcher div.body-container
+{
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+
+}
+
+.gif-searcher .next-page-button
+{
+  width: 100%;
+}
+
+.gif-searcher .search
+{
+  position: relative;
+  margin-right: 2pt;
+  margin-left: 20px;
+  width: calc(100% - 180px);
+}
+
+.gif-searcher .search-icon
+{
+  padding: 2pt;
+  padding-left: 8pt;
+  height: 100%;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gif-searcher .input-root
+{
+  width: 100%;
+  color: inherit;
+}
+
+.gif-searcher .input-input
+{
+  padding: 10px 10px 10px 40px;
+  width: 100%;
+  border-radius: 5px;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+}
