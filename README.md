@@ -1,3 +1,6 @@
-The purpose fo this project is to serve as basis for discussion during our front-end candidate interviews.
+The purpose for this project is to serve as basis for a discussion during our front-end candidate interviews.
 
-We can see here several anti-patterns, and the challenge for the candidate is to be able to spot them and discuss the reasons to avoid them.
+Potentially, there are some anti-patterns used in this solution. The challenge for the candidate is to:
+* be able to identify the anti-patterns
+* discuss the reasons why one would have to avoid them
+* suggest possible ways to refactor the app to get rid of the anti-patterns
